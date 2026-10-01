@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Café Parama">
+  <circle cx="120" cy="120" r="114" fill="#FBF3E6" stroke="#9E4A2F" stroke-width="3"/>
+  <circle cx="120" cy="120" r="104" fill="none" stroke="#9E4A2F" stroke-width="1" stroke-dasharray="2 5"/>
+  <g transform="translate(80 30) scale(1.25)">
+    <path d="M32 12C37 20 38 26 32 32C26 26 27 20 32 12Z" fill="#D98B2B"/>
+    <path d="M12 36h40c-2 9-10 14-20 14S14 45 12 36Z" fill="#9E4A2F"/>
+    <path d="M8 55h48" stroke="#9E4A2F" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="130" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="12" letter-spacing="6" fill="#4A2418">CAFÉ</text>
+  <text x="120" y="168" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" font-weight="600" letter-spacing="5" fill="#4A2418" textLength="148" lengthAdjust="spacingAndGlyphs">PARAMA</text>
+  <text x="120" y="192" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#9E4A2F" textLength="150" lengthAdjust="spacing">THE SUPREME PAUSE</text>
+</svg>
