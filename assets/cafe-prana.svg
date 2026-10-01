@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Café Prana">
+  <circle cx="120" cy="120" r="114" fill="#FBF3E6" stroke="#C8702A" stroke-width="3"/>
+  <circle cx="120" cy="120" r="104" fill="none" stroke="#C8702A" stroke-width="1" stroke-dasharray="2 5"/>
+  <g transform="translate(80 30) scale(1.25)" fill="#C8702A">
+    <path d="M32 14C39 23 39 34 32 43C25 34 25 23 32 14Z"/>
+    <path d="M32 44C23 42 16 35 14 25C23 27 30 34 32 44Z" opacity=".8"/>
+    <path d="M32 44C41 42 48 35 50 25C41 27 34 34 32 44Z" opacity=".8"/>
+    <path d="M14 48h36" stroke="#C8702A" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="130" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="12" letter-spacing="6" fill="#5A3A1E">CAFÉ</text>
+  <text x="120" y="168" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" font-weight="600" letter-spacing="5" fill="#5A3A1E" textLength="128" lengthAdjust="spacingAndGlyphs">PRANA</text>
+  <text x="120" y="192" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#C8702A" textLength="150" lengthAdjust="spacing">BREATHE · SIP · BELONG</text>
+</svg>

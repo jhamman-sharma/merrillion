@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Café Monsoon">
+  <circle cx="120" cy="120" r="114" fill="#EEF4F0" stroke="#2F5D50" stroke-width="3"/>
+  <circle cx="120" cy="120" r="104" fill="none" stroke="#2F5D50" stroke-width="1" stroke-dasharray="2 5"/>
+  <g transform="translate(80 28) scale(1.25)">
+    <path d="M32 10C32 10 17 29 17 40a15 15 0 0 0 30 0C47 29 32 10 32 10Z" fill="#2F5D50"/>
+    <path d="M32 50V28M32 38l-6-5M32 44l6-5" stroke="#CFE5DA" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="130" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="12" letter-spacing="6" fill="#1E3B33">CAFÉ</text>
+  <text x="120" y="168" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="32" font-weight="600" letter-spacing="3" fill="#1E3B33" textLength="158" lengthAdjust="spacingAndGlyphs">MONSOON</text>
+  <text x="120" y="192" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#2F5D50" textLength="150" lengthAdjust="spacing">SLOW DAYS · GOOD BREWS</text>
+</svg>
